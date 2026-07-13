@@ -1,0 +1,24 @@
+Scenario,Count,Percentage
+Direct_Control,127400,17.12
+Shutdown_Kitchen,45760,6.15
+Cooking_Kitchen,45320,6.09
+Cleaning_Kitchen,41360,5.56
+Shutdown_Study Room,30960,4.16
+Sleep Preparation_Bedroom,30720,4.13
+Reading_Bedroom,29760,4.0
+Wakeup_Bedroom,29440,3.96
+Shutdown_Living Room,29160,3.92
+Cleaning_Bedroom,28440,3.82
+Shutdown_Bedroom,28400,3.82
+Cleaning_stop_Kitchen,27000,3.63
+Cleaning_Living Room,25280,3.4
+Study_Study Room,24640,3.31
+Cleaning_stop_Living Room,24000,3.23
+Cleaning_stop_Bedroom,23680,3.18
+Eating_Dining Room,23520,3.16
+Shutdown_Dining Room,22720,3.05
+Cleaning_Study Room,22400,3.01
+Cleaning_Dining Room,22120,2.97
+Cleaning_stop_Dining Room,21000,2.82
+Cleaning_stop_Study Room,21000,2.82
+Relaxation_Living Room,19880,2.67
