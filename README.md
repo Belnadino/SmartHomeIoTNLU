@@ -396,7 +396,7 @@ pip install -r requirements.txt
 
 ---
 
-# Installation
+# Creation
 
 SmartHomeIoTNLU was created using a synthetic dataset generation framework consisting of:
 
@@ -424,6 +424,8 @@ dataset descriptor paper:
   version = {1.0}
 }
 
+---
+
 # Acknowledgements
 
 This dataset was developed at:
@@ -437,6 +439,8 @@ Supported by:
 Durham University
 Tanzania Communication Regulatory Authority (TCRA)
 
+
+---
 
 # License
 
