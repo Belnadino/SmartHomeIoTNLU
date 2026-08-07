@@ -390,11 +390,11 @@ Provides examples for:
 
 Install required Python packages:
 
-```bash
+bash
 pip install -r requirements.txt
 
-
 ---
+
 
 # Creation
 
@@ -453,7 +453,7 @@ credit is given to the authors.
 See the LICENSE file for full details.
 
 
-Contact
+# Contact
 
 For questions, feedback, or research collaboration:
 
