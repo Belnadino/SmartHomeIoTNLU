@@ -295,30 +295,31 @@ AC → Target Temperature
 
 ---
 
-# Dataset Files
+## Dataset Files
 
 Repository structure:
 
+```text
 SmartHomeIoTNLU/
-
 ├── dataset/
-│ ├── SmartHomeIoTNLU.csv
-│ ├── ConverterToJSON.ipynb
-│ ├── train.JSON
-│ ├── validation.JSON
-│ └── test.JSON
+│   ├── SmartHomeIoTNLU.csv
+│   ├── ConverterToJSON.ipynb
+│   ├── train.json
+│   ├── validation.json
+│   └── test.json
 │
 ├── notebooks/
-│ ├── dataset_overview & validation & distribution_analysis.ipynb
-│ └── baseline_models.ipynb
+│   ├── dataset_overview_validation_distribution_analysis.ipynb
+│   └── baseline_models.ipynb
 │
 ├── results/
-│ ├── figures/
-│ └── tables/
+│   ├── figures/
+│   └── tables/
 │
 ├── requirements.txt
 ├── README.md
 └── LICENSE
+```
 
 
 ---
