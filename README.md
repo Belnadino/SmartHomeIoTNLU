@@ -458,8 +458,8 @@ See the LICENSE file for full details.
 
 For questions, feedback, or research collaboration:
 
-Belnadino Mgimba
-Department of Computer Science
+Belnadino Mgimba,
+Department of Computer Science,
 Durham University, United Kingdom
 
 Email: belnadinomgimba@gmail.com
