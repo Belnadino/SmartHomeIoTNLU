@@ -192,7 +192,7 @@ A single user command may generate multiple coordinated device actions.
 
 For example:
 Event_ID:
-0016b3fa-78da-43ac-9a5c-cdd49f4d5e0d
+7a1f2aaa-8b7e-4538-9069-a54137bfe0e6
 
 Command:
 "Deep clean the study room"
