@@ -192,11 +192,16 @@ A single user command may generate multiple coordinated device actions.
 
 For example:
 Event_ID:
-7a1f2aaa-8b7e-4538-9069-a54137bfe0e6
+4635f6a5-7bf5-4199-9016-52f750d58c91
 
 Command:
-"Deep clean the study room"
+"I want to eat now"
 
+Time : Noon
+
+Temperature : 23°C
+
+Location: Dining Room
 
 Generated actions:
 
@@ -204,11 +209,10 @@ Generated actions:
 |---|---|
 | Air Purifier | ON |
 | Radio | ON |
-| Mop Robot | ON |
 | Curtains | OPEN |
 | Light | ON |
-| Robot Vacuum | ON |
-| AC | OFF |
+| Water Dispenser | ON |
+| AC | ADJUST | Temp=24°C  |
 
 Multiple rows with the same `Event_ID` represent one complete smart home event.
 
