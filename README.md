@@ -205,13 +205,13 @@ Location: Dining Room
 
 Generated actions:
 
-| Device | Action |
-|---|---|
-| Air Purifier | ON |
-| Radio | ON |
-| Curtains | OPEN |
-| Light | ON |
-| Water Dispenser | ON |
+| Device | Action | Parameter |
+|---|---|---|
+| Air Purifier | ON | None |
+| Radio | ON | None |
+| Curtains | OPEN | None |
+| Light | ON | None |
+| Water Dispenser | ON | None |
 | AC | ADJUST | Temp=24°C  |
 
 Multiple rows with the same `Event_ID` represent one complete smart home event.
