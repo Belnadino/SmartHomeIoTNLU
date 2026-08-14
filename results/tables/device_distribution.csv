@@ -2,19 +2,19 @@ Device,Count,Percentage
 AC,105520,14.18
 Curtains,103320,13.89
 Light,101320,13.62
-SmartPlug_Air Purifier,72920,9.8
 SmartPlug_Radio,72920,9.8
+SmartPlug_Air Purifier,72920,9.8
 Mop Robot,72040,9.68
 Robot Vacuum,66040,8.88
 SmartPlug_TV,32440,4.36
 SmartPlug_Noise Machine,17240,2.32
-Exhaust / Vent,14400,1.94
 SmartPlug_Kitchen Light,14400,1.94
+Exhaust / Vent,14400,1.94
 SmartPlug_Bed Lamp,14080,1.89
 SmartPlug_Water Dispenser,12840,1.73
-SmartPlug_Coffee Maker,7640,1.03
 SmartPlug_Mixer,7640,1.03
 SmartPlug_Toaster,7640,1.03
 SmartPlug_Electric Kettle,7640,1.03
-SmartPlug_Computer,6960,0.94
+SmartPlug_Coffee Maker,7640,1.03
 SmartPlug_Desk Lamp,6960,0.94
+SmartPlug_Computer,6960,0.94
